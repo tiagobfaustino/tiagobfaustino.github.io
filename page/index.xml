@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Leandro Ruschel - Blog</title>
+    <link>https://tiagobfaustino.github.io/page/</link>
+    <description>Recent content in Pages on Leandro Ruschel - Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Wed, 27 Dec 2023 20:04:09 -0300</lastBuildDate>
+    <atom:link href="https://tiagobfaustino.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sobre</title>
+      <link>https://tiagobfaustino.github.io/page/sobre/</link>
+      <pubDate>Wed, 27 Dec 2023 20:04:09 -0300</pubDate>
+      <guid>https://tiagobfaustino.github.io/page/sobre/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
